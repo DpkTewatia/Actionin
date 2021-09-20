@@ -7,15 +7,14 @@ import Todos from "./MyComponents/todos";
 
 
 function App() {
-  // let myVariable = 345;
+ 
   return (
     <>
      <Header title = "Doubt Session" searchBar={true} /> 
      <hr/>
      <Todos/><hr/> 
      <Footer/>  <hr/> 
-     
-       
+          
      
      
     </>
